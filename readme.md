@@ -2,8 +2,6 @@
 
 :atom: Websites - :electron: GitHub Links
 
-<br>
-
 # **Awesome Game Development Resources**
 **Welcome to Fantastic Game Development Resources!** This repository aims to provide a curated collection of valuable websites, tools, tutorials, and assets for game developers.
 
