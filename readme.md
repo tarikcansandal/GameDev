@@ -28,8 +28,9 @@ Take your game visuals to the next level with this collection of resources. Find
 Immerse players in captivating audio experiences with the help of this category. Access royalty-free music, sound effects, voiceover resources, and audio editing tools to enhance the audio aspect of your games.
 <br><br>
 :atom: **[freesound](https://freesound.org) | Free effect, music and ambient sound library.**<br>
-:atom: **[OpenGameArt](https://opengameart.org/art-search?keys=sounds) | Free sound library.**<br>
+:atom: **[OpenGameArt](https://opengameart.org/art-search?keys=sounds) | Free effect, music and ambient sound library.**<br>
 :atom: **[Sound Jay](https://www.soundjay.com) | Free effect, music and ambient sound library.**<br>
+:atom: **[ZAPSPLAT](https://www.zapsplat.com) | Free effect, music and ambient sound library.**<br>
 <hr>
 
 ### **Game Design and Prototyping**
