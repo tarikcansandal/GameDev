@@ -1,8 +1,8 @@
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-:atom:: Websites - :electron::GitHub Links
+:atom: Websites - :electron: GitHub Links
 
-<br><br>
+<br>
 
 # Awesome Game Development Resources
 Welcome to Fantastic Game Development Resources! This repository aims to provide a curated collection of valuable websites, tools, tutorials, and assets for game developers. Whether you are a beginner or an experienced game developer, you will find numerous resources to enhance your skills and accelerate your game development projects.
