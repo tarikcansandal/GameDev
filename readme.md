@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 # Awesome Game Development Resources
@@ -12,7 +10,7 @@ Welcome to Fantastic Game Development Resources! This repository aims to provide
 
 Discover powerful game engines that can streamline your development process and enable you to create stunning games. Explore popular engines like Unity, Unreal Engine, Godot, and more.
 
-<i class="fa fa-check-circle"></i> Deneme
+<hr>
 
 ### Game Engines
 
