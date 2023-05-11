@@ -21,6 +21,7 @@ Discover powerful game engines that can streamline your development process and 
 ### **Graphics and Visual Effects**
 Take your game visuals to the next level with this collection of resources. Find high-quality textures, shaders, 3D models, particle effects, and tutorials on creating stunning graphics for your games.
 <br><br>
+:atom: **[LotPixel](https://www.lotpixel.com) | Premium & free texture. High quality 3D model, decal, texture library.**<br>
 <hr>
 
 ### **Audio and Music**
@@ -34,13 +35,6 @@ Immerse players in captivating audio experiences with the help of this category.
 ### **Game Design and Prototyping**
 Master the art of game design with a variety of resources focused on game mechanics, level design, user interface, and prototyping. Learn best practices and gain insights from experienced designers.
 <br><br>
-<hr>
-
-### **3D Modeling & Animation & Texture and Others**
-Create lifelike characters and environments using these 3D modeling and animation resources. Find tutorials, software recommendations, and ready-to-use assets to speed up your modeling and animation workflow.
-<br><br>
-:atom: **[LotPixel](https://www.lotpixel.com) | Premium & free texture. High quality 3D model, decal, texture library.**<br>
-
 <hr>
 
 ### **Game Development Tools**
