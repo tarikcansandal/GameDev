@@ -12,7 +12,7 @@ Welcome to Fantastic Game Development Resources! This repository aims to provide
 
 Discover powerful game engines that can streamline your development process and enable you to create stunning games. Explore popular engines like Unity, Unreal Engine, Godot, and more.
 
-<i class="fas fa-check-circle"></i> Deneme
+<i class="fa fa-check-circle"></i> Deneme
 
 ### Game Engines
 
