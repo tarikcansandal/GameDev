@@ -30,11 +30,11 @@ Master the art of game design with a variety of resources focused on game mechan
 
 <hr>
 
-### 3D Modeling and Animation
+### 3D Modeling & Animation & Texture and Others
 
 Create lifelike characters and environments using these 3D modeling and animation resources. Find tutorials, software recommendations, and ready-to-use assets to speed up your modeling and animation workflow.
 
-:atom: [LotPixel](https://www.lotpixel.com) Premium & free texture. High quality texture library.
+:atom: [LotPixel](https://www.lotpixel.com) Premium & free texture. High quality 3D model, decal, texture library.
 
 <hr>
 
