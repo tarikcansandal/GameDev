@@ -8,12 +8,12 @@ Welcome to Fantastic Game Development Resources! This repository aims to provide
 ### Game Engines
 Discover powerful game engines that can streamline your development process and enable you to create stunning games. Explore popular engines like Unity, Unreal Engine, Godot, and more.
 <br><br><br>
-:atom: **[Unreal Engine](https://www.unrealengine.com/en-US)** <br><br>
-:atom: **[Unity](https://unity.com)** <br><br>
-:atom: **[Godot](https://godotengine.org)** <br><br>
-:atom: **[Armory](https://armory3d.org)** <br><br>
-:atom: **[CryEngine](https://www.cryengine.com)** <br><br>
-:atom: **[Solar2D](https://solar2d.com)** <br><br>
+:atom: **[Unreal Engine](https://www.unrealengine.com/en-US)** <br>
+:atom: **[Unity](https://unity.com)** <br>
+:atom: **[Godot](https://godotengine.org)** <br>
+:atom: **[Armory](https://armory3d.org)** <br>
+:atom: **[CryEngine](https://www.cryengine.com)** <br>
+:atom: **[Solar2D](https://solar2d.com)** <br>
 
 <hr>
 
