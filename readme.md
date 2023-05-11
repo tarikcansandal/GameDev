@@ -35,9 +35,14 @@ Master the art of game design with a variety of resources focused on game mechan
 ### 3D Modeling & Animation & Texture and Others
 Create lifelike characters and environments using these 3D modeling and animation resources. Find tutorials, software recommendations, and ready-to-use assets to speed up your modeling and animation workflow.
 <br><br><br>
-:atom: [LotPixel](https://www.lotpixel.com) Premium & free texture. High quality 3D model, decal, texture library.
+:atom: **[LotPixel](https://www.lotpixel.com) Premium & free texture. High quality 3D model, decal, texture library.**<br>
 
 <hr>
 
 ### Game Development Tools
 Discover a wide range of tools that can optimize your game development process. From version control systems to project management and debugging tools, this category has you covered.
+<br><br><br>
+:electron: **[SQLite4Unity3d](https://github.com/robertohuertasm/SQLite4Unity3d) | Database using in Unity.**<br>
+:electron: **[roadbuilder](https://github.com/guotata1996/roadbuilder) | Easy-to-build realistic roads in Unity.**<br>
+:electron: **[LoadingScreen](https://github.com/ue4plugins/LoadingScreen) | Loading screen in Unreal Engine.**<br>
+:electron: **[SteamBridge](https://github.com/trdwll/SteamBridge) | Steamworks API bridge in Unreal Engine.**<br>
