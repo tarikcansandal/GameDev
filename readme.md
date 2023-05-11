@@ -1,5 +1,3 @@
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-
 :atom: Websites - :electron: GitHub Links
 
 # **Awesome Game Development Resources**
