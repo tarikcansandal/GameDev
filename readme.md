@@ -40,6 +40,7 @@ Immerse players in captivating audio experiences with the help of this category.
 ### **Game Design and Prototyping**
 Master the art of game design with a variety of resources focused on game mechanics, level design, user interface, and prototyping. Learn best practices and gain insights from experienced designers.
 <br><br>
+:atom: **[IMS Creators](https://ims.cr5.space/) | Free for indie platform to describe game mechanics, define game content and prototype levels.**<br>
 <hr>
 
 ### **Game Development Tools**
