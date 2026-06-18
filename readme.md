@@ -40,6 +40,7 @@ Immerse players in captivating audio experiences with the help of this category.
 ### **Game Design and Prototyping**
 Master the art of game design with a variety of resources focused on game mechanics, level design, user interface, and prototyping. Learn best practices and gain insights from experienced designers.
 <br><br>
+:atom: **[Roblox GUI Maker](https://robloxguimaker.dev/) | Free AI-assisted Roblox Studio ScreenGui, HUD, menu, and Lua UI starter-code planner.** <br>
 <hr>
 
 ### **Game Development Tools**
